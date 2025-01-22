@@ -1,41 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Total Life</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      text-align: center;
-      background-color: #f9f9f9;
-    }
-
-    header {
-      background-color: #4CAF50;
-      color: white;
-      padding: 1rem;
-    }
-
-    section {
-      margin: 2rem 0;
-    }
-
-    video {
-      width: 80%;
-      max-width: 600px;
-    }
-
-    footer {
-      background-color: #f1f1f1;
-      padding: 1rem;
-      margin-top: 2rem;
-      font-size: 0.9rem;
-      color: #555;
-    }
-  </style>
 </head>
 <body>
   <header>
